@@ -2,9 +2,10 @@
 
 ---
 
-<div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/a912d643-cab1-49b1-aad9-8fc7dc66a8e7'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/6261a4bc-4231-4eb0-9ed7-fdb4875cdda2'/></div>
 
 ---
+
 
 ## 🤖 What is an AI Agent?
 
